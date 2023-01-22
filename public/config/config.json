@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "fingerpix",
   "SYMBOL": "FINGER",
-  "MAX_SUPPLY": 5000,
+  "MAX_SUPPLY": 10000,
   "WEI_COST": 0,
   "DISPLAY_COST": 0.000000000,
   "GAS_LIMIT": 140000,
