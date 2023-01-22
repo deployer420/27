@@ -1,6 +1,6 @@
 const initialState = {
   loading: false,
-  totalSupply: 3406,
+  totalSupply: 3437,
   cost: 0,
   error: false,
   errorMsg: "",
