@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc11eAf2559ce3b85Adf45576F13F3E2e2C993561",
+  "SCAN_LINK": "https://etherscan.io/address/0xc11eAf2559ce3b85Adf45576F13F3E2e2C993561",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "fingerpix",
+  "SYMBOL": "FINGER",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.020000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fingerpix",
+  "SHOW_BACKGROUND": true
+}
