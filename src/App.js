@@ -298,7 +298,7 @@ function App() {
 
 
             <s.TextTitle>
-              Public mint time: 11 AM UTC 22/01/2023
+              Public mint: 13:30 UTC 22/01/2023
             </s.TextTitle>
 
             <s.TextTitle>
